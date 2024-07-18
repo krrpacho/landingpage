@@ -1,0 +1,29 @@
+{
+  "Header": {
+    "title": "Produo",
+    "paragraph": "Small start to big goals!"
+  },
+
+"Features": [
+    {
+      "icon": "fa fa-pencil-square-o",
+      "title": "Goals",
+      "text": "Set and manage your personal goals to keep track of your progress and stay motivated"
+    },
+    {
+      "icon": "fa fa-clock-o",
+      "title": "Stopwatch",
+      "text": "Use the built-in stopwatch to accurately track the time spent on your tasks and projects."
+    },
+    {
+      "icon": "fa fa-calendar",
+      "title": "Calendar",
+      "text": "Organize your schedule and review your time entries with the integrated calendar view."
+    },
+    {
+      "icon": "fa fa-bar-chart",
+      "title": "Charts",
+      "text": "Visualize your productivity trends with dynamic charts that summarize your weekly, monthly, and yearly performance."
+    }
+  ]
+}
